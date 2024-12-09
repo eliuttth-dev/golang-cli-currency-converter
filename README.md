@@ -7,7 +7,6 @@ A simple CLI tool to convert currencies using real-time exchange rates from the 
 
 2. Install dependencies.
 ```
-go mod init github.com/eliuttth-dev/golang-cli-currency-converter
 go mod tidy
 ```
 
